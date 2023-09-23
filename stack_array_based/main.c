@@ -16,7 +16,7 @@ int main()
     //user level
     Stack s;
     StackEntry item;
-
+    item=50;
     IntializeStack(&s);
     //pre check that stack is initialized and not full
     if(!StackFull(&s)){
