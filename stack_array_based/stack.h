@@ -2,7 +2,7 @@
  * stack.h
  *
  *  Created on: Sep 23, 2023
- *      Author: Tobi
+ *      Author: Shredan Abdullah  
  */
 
 #ifndef STACK_H_
